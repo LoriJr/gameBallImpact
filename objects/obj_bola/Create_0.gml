@@ -1,0 +1,9 @@
+/// @description Inserir descrição aqui
+// Você pode escrever seu código neste editor
+
+speed = global.velocidade_bola;
+
+
+alarm[0] = 60;
+randomize();
+direction = choose(45, 135)

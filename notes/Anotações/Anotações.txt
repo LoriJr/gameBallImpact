@@ -1,0 +1,16 @@
+>IMPLEMENTAR
+placar ok 
+vida ok
+voltar para tela inicial ok 
+nome do jogo na tela inicial ok 
+som de menu 
+som de jogo
+som de quique da bola na raquete 
+som de quique da bola nos tijolos 
+som de quite nas colisões das paredes
+
+
+
+>CORRIGIR
+velocidade da raquete, limitar a velocidade
+melhorar sprite do botão iniciar ok 
